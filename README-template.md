@@ -22,7 +22,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-intro-component-with-sign-up-form)
-- Live Site URL: [Netlify live site url](https://comforting-llama-304449.netlify.app/)
+- Live Site URL: [Netlify live site url](https://nimble-begonia-8a690c.netlify.app/)
 
 ## My process
 
